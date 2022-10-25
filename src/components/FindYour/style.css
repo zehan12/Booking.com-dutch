@@ -1,0 +1,16 @@
+.banner {
+  background-color: rgb(0, 53, 128);
+  color: white;
+  font-family: sans-serif;
+  line-height: 1.7;
+  padding: 40px 100px;
+}
+
+.banner h1 {
+  font-size: 47px;
+  font-weight: 600;
+}
+
+.banner p {
+  font-size: 22px;
+}
